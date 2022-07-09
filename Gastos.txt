@@ -1,0 +1,3 @@
+Alimentos#400#Thu Jul 07 00:00:00 UYT 2022#Pizza#Pedidos Ya#
+Alimentos#600#Thu Jul 07 00:00:00 UYT 2022#Hamburguesa#Pedidos Ya#
+Alquiler#13500#Thu Jul 07 00:00:00 UYT 2022#Julio 2022#Alquiler#
